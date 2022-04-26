@@ -7,4 +7,4 @@ Requirements:
 - Styling with Classes
 <br>
 <br>
-<img src="assets/images/project-thumbnail.png" width="80%"/>
+<img src="assets/images/project-thumbnail.png" width="70%"/>
