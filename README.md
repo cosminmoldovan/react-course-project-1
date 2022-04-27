@@ -6,4 +6,4 @@ Requirements:
 - Custom Components
 - Styling with Classes
 <br>
-<img src="assets/images/project-thumbnail.png" width="70%"/>
+<img src="src/assets/images/project-thumbnail.png" width="70%"/>
