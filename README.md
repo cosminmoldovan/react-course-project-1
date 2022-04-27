@@ -1,4 +1,4 @@
-# React facts site - Scrimba React Course Project 1
+# React facts site <sub><sup>(Scrimba React Course Project 1)</sup></sub>
 This React app will be a static site about React! This gives  an intro to the basic principles of the library.
 
 Requirements:
